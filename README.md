@@ -1,1 +1,1 @@
-# IMDB-sentiment-model
+# Twitter Sentiment Analysis Model
