@@ -29,3 +29,4 @@ The `model.ipynb` notebook also implements the Linear Regression model:
 - Logistic Regression, despite its simplicity, proved to be an effective method for sentiment analysis on this dataset
 - It serves as a robust baseline model, offering decent accuracy and interpretability
 - The model and preprocessing pipeline are efficient and scalable, capable of handling large datasets, making them suitable for real-world applications where large volumes of social media data need to be analyzed
+---
