@@ -23,6 +23,7 @@ The `model.ipynb` notebook also implements the Linear Regression model:
 
 ## Result
 `Training Accuracy`: 81%
+
 `Testing Accuracy`: 78%
 - The model demonstrates strong performance on both the training and testing datasets, indicating good generalization to unseen data
   
